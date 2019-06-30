@@ -9,7 +9,8 @@ This app works with only one layout and alert box, and on pressing a button it r
 Here the **UI** enables the user to play the game.
 
 ## Winner Dialog box
-![Winner DialogBox](https://github.com/Dhanishwar/XOXO/blob/master/app/src/win.jpg)
+<img src="https://github.com/Dhanishwar/XOXO/edit/master/README.md" data-canonical-src="https://github.com/Dhanishwar/XOXO/blob/master/app/src/win.jpg" width="200" height="400" />
+![Winner DialogBox]()
 
 Once the winner is determined, the above dialog box will be displayed.
 
